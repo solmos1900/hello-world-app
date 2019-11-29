@@ -1,7 +1,7 @@
 MADdemo
 
 ### App Description
-An introductory coding project that teaches the basics of Swift language programming with Xcode. The program renders an on-screen Iphone to run the program. Inside the program we tweak the color and text to the users discretion. The program shows the basics of IOS app creation and just how simple  
+An introductory coding project that teaches the basics of Swift language programming with Xcode. The program renders an on-screen Iphone to run the program. Inside the program we tweak the color and text to the users discretion. The program shows the basics of IOS app creation as well as the tools available on Xcode.  
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
